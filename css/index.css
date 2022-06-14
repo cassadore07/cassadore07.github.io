@@ -457,7 +457,7 @@ blockquote p {
   font-size: 2.8rem;
 }
 .page article h3 {
-  font-size: 2.4rem;
+  font-size: 2rem;
 }
 .page article p,
 .page article li {
@@ -675,7 +675,7 @@ blockquote p {
   transition: all 0.2s ease-in-out;
 }
 .social-links .e-social-link {
-  color: #1b80b8;
+  color: #0165ff;
 }
 .social-links .e-social-link .fa,
 .social-links .e-social-link .fas,
