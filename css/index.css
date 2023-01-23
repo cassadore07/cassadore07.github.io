@@ -229,7 +229,7 @@ figure.highlight {
 html {
   height: 100%;
   margin: 0;
-  font-size: 62.5%;
+  font-size: 60%;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
 }
@@ -240,14 +240,14 @@ body {
   color: #000;
   font-size: 1.8em;
   line-height: 1.5;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Lato', Lato, Arial, Helvetica, sans-serif;
   scroll-behavior: smooth;
   font-weight: 420;
 }
 a,
 span,
 .btn {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Lato', Lato, Arial, Helvetica, sans-serif;
 }
 img {
   max-width: 100%;
@@ -487,7 +487,7 @@ blockquote p {
   text-align: right;
 }
 .page article code {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Lato', Lato, Arial, Helvetica, sans-serif;
   padding: 0.2rem 0.3rem;
   background: rgba(27,31,35,0.05);
   word-wrap: break-word;
@@ -675,7 +675,7 @@ blockquote p {
   transition: all 0.2s ease-in-out;
 }
 .social-links .e-social-link {
-  color: #0165ff;
+  color: #168ac2;
 }
 .social-links .e-social-link .fa,
 .social-links .e-social-link .fas,
